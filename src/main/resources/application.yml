@@ -3,7 +3,7 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://mysql:3306/pikka
+    url: jdbc:mysql://mysql_db:3306/pikka
     password: pikka
     username: pikka
   jpa:
