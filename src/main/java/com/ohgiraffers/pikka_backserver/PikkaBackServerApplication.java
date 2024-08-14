@@ -1,13 +1,13 @@
-package com.example.chap10_docker_spring;
+package com.ohgiraffers.pikka_backserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Chap10DockerSpringApplication {
+public class PikkaBackServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Chap10DockerSpringApplication.class, args);
+        SpringApplication.run(PikkaBackServerApplication.class, args);
     }
 
 }
